@@ -35,7 +35,7 @@
     "commander": "^2.8.1",
     "globby": "^6.1.0",
     "hunspell-spellchecker": "^1.0.2",
-    "inquirer": "^1.0.0",
+    "inquirer": "^8.2.7",
     "js-yaml": "^3.10.0",
     "marked": "^0.7.0",
     "sinon-as-promised": "^4.0.0"
